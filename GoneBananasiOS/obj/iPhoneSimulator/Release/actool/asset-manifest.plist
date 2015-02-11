@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/obj/iPhoneSimulator/Release/actool/AppIcons40x40@2x.png</string>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/obj/iPhoneSimulator/Release/actool/AppIcons60x60@2x.png</string>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/obj/iPhoneSimulator/Release/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 57x57 app icon is required for iPhone apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 57x57@2x app icon is required for iPhone apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 72x72 app icon is required for iPad apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 72x72@2x app icon is required for iPad apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/Trimestre2/productos/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

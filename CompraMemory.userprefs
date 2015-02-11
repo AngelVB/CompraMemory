@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="GoneBananasAndroid/CompraMemoryAndroid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="Android.Nexus_5_API_21_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoneBananasShared/GoneBananasApplicationDelegate.cs">
+    <Files>
+      <File FileName="GoneBananasShared/GameStartLayer.cs" Line="94" Column="94" />
+      <File FileName="GoneBananasShared/GameOverLayer.cs" Line="3" Column="3" />
+      <File FileName="GoneBananasShared/GameLayer.cs" Line="138" Column="138" />
+      <File FileName="GoneBananasShared/GoneBananasApplicationDelegate.cs" Line="109" Column="109" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/Angel/Dropbox/DAM/Segundo/Programacion Multimedia/cocos-sharp-samples-master/GoneBananas/GoneBananasShared/GameLayer.cs" line="220" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="GoneBananasShared/GameLayer.cs" line="231" offsetX="813" offsetY="3450" expression="producto" liveUpdate="False" />
+    <Watch file="GoneBananasShared/GameLayer.cs" line="231" offsetX="813" offsetY="3450" expression="producto" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.CompraMemoryAndroid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
